@@ -1,4 +1,5 @@
 // Veronika Dordevic
+// Pensamiento Algoritmico
 // E1: Color y Forma
 
 
@@ -22,7 +23,7 @@ void setup() {
   ellipse(300, 320, 60, 80);
   
   // Patas
-  fill(139, 69, 19); // Marrón oscuro
+  fill(139, 69, 19); // Cafe
   rect(270, 350, 15, 30); // Pata izquierda
   rect(315, 350, 15, 30); // Pata derecha
 
